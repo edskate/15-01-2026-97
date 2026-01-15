@@ -2,3 +2,4 @@
 Treinamento 001
 
 # Exercicio 01
+# Exercicio 02
